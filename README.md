@@ -1,4 +1,4 @@
-# Adobe India Hackathon: Connecting the Dots
+#  Hackathon: Connecting the Dots
 
 Complete solution for Round 1A and Round 1B.
 
@@ -24,4 +24,4 @@ Complete solution for Round 1A and Round 1B.
 ## How to Build
 
 ```bash
-docker build --platform linux/amd64 -t adobe-hackathon:latest .
+docker build --platform linux/amd64 -t  .
